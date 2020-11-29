@@ -32,12 +32,12 @@ You are only allowed to use typescript.
 You may not use "ANY" as an type. 
 You need to create the type in a class if you send it to the webapi.
 You need to implement the BaseService class
-You must use angular generate
+You must use angular generate =DONE
 
 a. Create a new component called "view-tickets" = DONE
-b. Create a new base class called "ticket" 
-c. Create a new class bug
-d. Create a new class enhancement 
+b. Create a new base class called "ticket" = DONE
+c. Create a new class bug = DONE
+d. Create a new class enhancement = DONE
 e. Create a new service to handle the calls and implement the BaseService = DONE
 
 
